@@ -1,0 +1,8 @@
+Activity 
+Date	        Activity 	Tools Used
+6/16/2022	    Generated First ZAP report of Django version 	ZAP
+6/23/2022	    Fixed 'Cookie No HttpOnly Flag, all the solution will be in solution.docs 	"ZAP, Metasploit wmap, Joker, Zap in Kali"
+6/30/2022	    "Fixed Content security policy header not set alert. Code provided in the folder 6-30-2022"	ZAP
+7/24/2022	    "Due to some changes were made, the content security policy was not working and it was reported again in the scan in ZAP."	ZAP
+8/4/2022	    "Fixed all the issues related to CSP and Cookie No HttpOnly Flag and push to live website"	ZAP
+8/4/2022 - Cur Creating python security tools, working on scripting tools for testing on kali linux.
